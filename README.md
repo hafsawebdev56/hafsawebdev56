@@ -21,8 +21,6 @@ I'm learning web development from the ground up and building practical projects 
 
 ### 🌐 Connect With Me
 
-### 🌐 Connect With Me
-
 - [GitHub](https://github.com/hafsawebdev56)
 - [Instagram](https://www.instagram.com/hafsawebdev/)
 - [TikTok](https://www.tiktok.com/@hafsawevdev)
